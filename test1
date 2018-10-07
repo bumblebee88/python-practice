@@ -1,0 +1,4 @@
+your_name = raw_input ("\nwhat's your name?")
+print "Hey %s" % your_name
+print "this is the first python program getting committed to github repo using git"
+print 'Hurray!'
